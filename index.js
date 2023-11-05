@@ -1,7 +1,7 @@
 export function shuffleArray(array) {
-    // if (!Array.isArray(array)) {
-    //     throw new Error('value entered is not an array. ');
-    //   }
+    if (!Array.isArray(array)) {
+        throw new Error('value entered is not an array. ');
+      }
     for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     const temp = array[i];
