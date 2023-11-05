@@ -1,4 +1,4 @@
-function shuffleArray(array) {
+export function shuffleArray(array) {
     // if (!Array.isArray(array)) {
     //     throw new Error('value entered is not an array. ');
     //   }
