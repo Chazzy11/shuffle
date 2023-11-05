@@ -1,5 +1,5 @@
 {
-  "name": "@chazzy11/shuffle",
+  "name": "@chazzy13/shuffle",
   "version": "1.0.0",
   "description": "An npm package that randomly shuffles an array",
   "main": "index.js",
