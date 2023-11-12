@@ -3,7 +3,7 @@ import { test, expect } from "vitest";
 
 test("should throw error if input is not array", function () {
     expect( () => {
-        shuffleArray("not an array")
+        shuffleArray(!Array)
     }).toThrow("value entered is not an array.");
 });
 
