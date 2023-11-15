@@ -9,7 +9,7 @@
   "keywords": ["array", "shuffle", "randomiser"],
   "author": "Charlotte Rogers",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "vitest": "^0.34.6"
   }
 }

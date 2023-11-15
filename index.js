@@ -1,4 +1,4 @@
-export function shuffleArray(array) {
+export function shuffle(array) {
 
 // Check input is array
 
