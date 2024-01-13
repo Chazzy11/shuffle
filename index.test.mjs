@@ -1,4 +1,4 @@
-import { shuffle } from "index.js";
+import { shuffle } from "index.mjs";
 import { test, expect } from "vitest"; 
 
 test("should throw error if input is not array", function () {
