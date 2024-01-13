@@ -6,8 +6,7 @@
   "main": "index.js",
   "exports": {
     ".": {
-      "import": "./index.mjs",
-      "require": "./index.js"
+      "import": "./index.js"
     }
   },
   "scripts": {
