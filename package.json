@@ -1,6 +1,6 @@
 {
   "name": "@chazzy13/shuffle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm package that randomly shuffles an array",
   "main": "index.js",
   "scripts": {
