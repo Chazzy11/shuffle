@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@chazzy13/shuffle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An npm package that randomly shuffles an array",
   "main": "index.mjs",
   "exports": {
@@ -10,7 +10,7 @@
     }
   },
   "scripts": {
-    "test": "vitest"
+    "test": "vitest run --coverage"
   },
   "keywords": [
     "array",
@@ -20,6 +20,7 @@
   "author": "Charlotte Rogers",
   "license": "MIT",
   "devDependencies": {
-    "vitest": "^0.34.6"
+    "@vitest/coverage-v8": "^1.2.0",
+    "vitest": "^1.2.0"
   }
 }
