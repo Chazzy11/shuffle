@@ -1,12 +1,16 @@
 {
   "name": "@chazzy13/shuffle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that randomly shuffles an array",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
   },
-  "keywords": ["array", "shuffle", "randomiser"],
+  "keywords": [
+    "array",
+    "shuffle",
+    "randomiser"
+  ],
   "author": "Charlotte Rogers",
   "license": "MIT",
   "devDependencies": {
