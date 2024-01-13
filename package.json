@@ -3,10 +3,10 @@
   "name": "@chazzy13/shuffle",
   "version": "1.0.3",
   "description": "An npm package that randomly shuffles an array",
-  "main": "index.js",
+  "main": "index.mjs",
   "exports": {
     ".": {
-      "import": "./index.js"
+      "import": "./index.mjs"
     }
   },
   "scripts": {
