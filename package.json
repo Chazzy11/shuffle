@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@chazzy13/shuffle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package that randomly shuffles an array",
   "main": "index.js",
   "exports": {
@@ -9,7 +9,7 @@
       "import": "./index.mjs",
       "require": "./index.js"
     }
-    },
+  },
   "scripts": {
     "test": "vitest"
   },
