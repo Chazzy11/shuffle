@@ -29,4 +29,4 @@ shuffle(['cat', 'dog', 'elephant', 'goat']);
 ```
 ### Contributing
 ---
-This project is released in line with the <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md">Contributor Covenant Code of Conduct</a>. By participating in this project, you agree to abide by its terms. Whether you've spotted a bug, have a question, or think of a new feature, I thank you for your help!
+This project is released in line with the <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md">Contributor Covenant Code of Conduct</a>. By participating in this project, you agree to abide by its terms. Whether you've spotted a bug, have a question, or think of a new feature, thank you for your help!
